@@ -1,6 +1,6 @@
 #create a api gateway lambda function
 # infrastructure code for aws services: api gateway and lambda function
-
+frameworkVersion: "3"
 service: aws-serverless-devops
 
 provider:
